@@ -103,15 +103,13 @@ nav li a:hover {
   font-size: 20px;
   user-select: none;
   margin-top: 300px;
-  margin-right: 200px;
-
+  margin-left: 0;
 }
 
 .image-container img {
-  width: 500%;
-  height: 500%;
+  width:auto;
+  height: auto;
 }
-
 
 
 .image-container img {
