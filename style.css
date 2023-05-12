@@ -100,15 +100,12 @@ nav li a:hover {
   flex: 1;
   text-align: left;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
   user-select: none;
   margin-top: 300px;
-  margin-left: 0;
-}
-
-.image-container img {
-  width:auto;
-  height: auto;
+  text-align: center;
+  text-decoration: solid;
+  
 }
 
 
@@ -116,6 +113,7 @@ nav li a:hover {
   max-width: 100%;
   height: auto;
 }
+
 
 .typing-animation {
   overflow: hidden; /* Hide overflow text */
@@ -138,3 +136,4 @@ nav li a:hover {
   font-size: 35px;
   user-select: none;
 }
+
